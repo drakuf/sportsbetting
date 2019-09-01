@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: draku
+Build-Jdk: 12.0.1
+Implementation-Title: sportsbetting-application-webapp
+Implementation-Version: 2.1.4.RELEASE
+Implementation-Vendor-Id: org.springframework.boot
+Implementation-URL: http://www.example.com
+Created-By: Maven Integration for Eclipse
+

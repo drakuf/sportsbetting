@@ -1,0 +1,46 @@
+header {
+	color: white;
+}
+
+body {
+	padding-top : 80px;
+	color: #343b40;
+}
+
+#bodyId{
+	padding-top : 0px;
+}
+
+.btneffect {
+  background-color: #008CBA !important; 
+  color: white !important;
+  border: 2px solid #008CBA !important;
+  
+}
+
+.btneffect:hover {
+  background-color: white !important;
+  color: black !important;
+}
+
+.text-primary {
+	color  : #009cd8;
+}
+
+.jumbotron {
+	background-color : #343b40 !important ;
+}
+
+.card {
+	border-color : #009cd8;
+}
+
+.card-header {
+	color: white;
+	background-color : #009cd8;
+}
+
+.btn-primary {
+	background-color : #009cd8 !important;
+	border-color: #009cd8 !important;
+}
